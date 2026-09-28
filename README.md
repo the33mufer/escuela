@@ -1,3 +1,4 @@
+# escuela
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -53,5 +54,5 @@ footer{margin-top:34px;color:var(--muted);font-size:13px}
 <footer>Los datos de las notas periodísticas provienen de CAMMESA, la Cámara Eólica Argentina y el GWEC.</footer>
 </main>
 </body>
-</html># escuela
-escuela
+</html>
+
